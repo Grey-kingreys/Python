@@ -1,1 +1,2 @@
-print("Bonjour")
+nom = "Souleymane"
+print(f"Bonjour {nom}")
